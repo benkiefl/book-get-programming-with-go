@@ -7,7 +7,7 @@ solutions to exercises, a lot of my own experiments. Code is heavily commented
 explaining various Go concepts. It's meant to be an additional insight into what
 someone else did with the same resource.
 
-This is no actively maintained. "As is" after having finished the book.
+This is not actively maintained. "As is" after having finished the book.
 
 ## Additional resources
 
